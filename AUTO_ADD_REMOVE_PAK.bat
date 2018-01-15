@@ -1,4 +1,9 @@
 @echo off
+echo/**
+echo * @author Wang Zhen <A.Hleb.King wangzhenjjcn@gmail.com>
+echo * @since 018-1-7 6:53:44 pm
+echo */
+echo
 echo Refuse pirated games
 echo pay attention to self-protection
 echo beware fooled
@@ -13,9 +18,12 @@ for /f "delims=" %%i in ('dir /b /a-d') do (
 set /a a+=1
   mklink "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_gamehack!a!.pak"  %~dp0PAKS\%%~ni.pak
 )
-echo  File deployment finished!!!!!文件部署完毕
-echo   Open the game and switch back to the window after you get on the plane!上了飞机切回来
-echo  Just enter a number, only a number can be entered to continue!在飞机上切回来随便输入一个数字就可以了
+echo  File deployment finished!!!!!
+echo  文件部署完毕
+echo   Open the game and switch back to the window after you get on the plane!
+echo  上了飞机切回来
+echo  Just enter a number, only a number can be entered to continue!
+echo  在飞机上切回来随便输入一个数字就可以了
 pause;
 set N=1
 :start
