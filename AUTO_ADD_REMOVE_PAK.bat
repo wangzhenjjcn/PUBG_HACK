@@ -1,8 +1,8 @@
 @echo off
-echo/**
-echo * @author Wang Zhen <A.Hleb.King wangzhenjjcn@gmail.com>
-echo * @since 018-1-7 6:53:44 pm
-echo */
+echo 
+echo  author Wang Zhen  A.Hleb.King wangzhenjjcn@gmail.com 
+echo  since 018-1-7 6:53:44 pm
+echo  
 echo
 echo Refuse pirated games
 echo pay attention to self-protection
