@@ -14,9 +14,10 @@ echo 拒绝盗版游戏，注意自我保护，谨防受骗上当，适度游戏
 cd /d %~dp0/PAKS
 setlocal enabledelayedexpansion
 set /a a=0
-for /f "delims=" %%i in ('dir /b /a-d') do (
+set PUBG_PATH=C:\Program Files (x86)\Steam\steamapps\common\PUBG
+for /f "delims=" %%i in ('dir /aa/s/b/on *.pak') do (
 set /a a+=1
-  mklink "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_sound1!a!88888.pak"  %~dp0PAKS\%%~ni.pak
+  mklink "!PUBG_PATH!\TslGame\Content\Paks\TslGame-WindowsNoEditor_sound1!a!88888.pak"     %%~fi
 )
 echo  File deployment finished!!!!!
 echo  文件部署完毕
@@ -27,7 +28,7 @@ echo  在飞机上切回来随便输入一个数字就可以了
 pause;
 set N=1
 :start
-  del "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_gamehack1!N!88888.pak"
+  del "!PUBG_PATH!\TslGame\Content\Paks\TslGame-WindowsNoEditor_gamehack1!N!88888.pak"
 if "%n%"=="%a%" goto end
 set /a n=%n%+1
 goto start 
