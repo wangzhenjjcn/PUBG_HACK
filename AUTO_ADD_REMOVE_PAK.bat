@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 echo 
 echo  author Wang Zhen  A.Hleb.King wangzhenjjcn@gmail.com 
 echo  since 018-1-7 6:53:44 pm
@@ -16,7 +16,7 @@ setlocal enabledelayedexpansion
 set /a a=0
 for /f "delims=" %%i in ('dir /b /a-d') do (
 set /a a+=1
-  mklink "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_gamehack!a!.pak"  %~dp0PAKS\%%~ni.pak
+  mklink "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_sound1!a!88888.pak"  %~dp0PAKS\%%~ni.pak
 )
 echo  File deployment finished!!!!!
 echo  文件部署完毕
@@ -27,7 +27,7 @@ echo  在飞机上切回来随便输入一个数字就可以了
 pause;
 set N=1
 :start
-  del "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_gamehack!N!.pak"
+  del "C:\Program Files (x86)\Steam\steamapps\common\PUBG\TslGame\Content\Paks\TslGame-WindowsNoEditor_gamehack1!N!88888.pak"
 if "%n%"=="%a%" goto end
 set /a n=%n%+1
 goto start 
