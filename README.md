@@ -59,4 +59,24 @@ download this bat file single or download all files include paks
 ***
 
 
-
+Refuse pirated games
+===========================================
+***
+pay attention to self-protection
+===========================================
+***
+beware fooled
+===========================================
+***
+moderate games benefit the brain 
+===========================================
+***
+do not addicted to the game 
+===========================================
+***
+reasonable to arrange a time to enjoy a healthy life
+===========================================
+***
+拒绝盗版游戏，注意自我保护，谨防受骗上当，适度游戏益脑，沉迷游戏伤身，合理安排时间，享受健康生活~!
+===========================================
+***
