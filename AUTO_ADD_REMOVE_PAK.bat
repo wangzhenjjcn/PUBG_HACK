@@ -21,10 +21,10 @@ set /a a+=1
 )
 echo  File deployment finished!!!!!
 echo  文件部署完毕
-echo   Open the game and switch back to the window after you get on the plane!
-echo  上了飞机切回来
+echo   Open the game if you are in the Ingame Lobby (when you hear the sound), the most people hear the sound first and still have blackscreen, switch back
+echo  黑屏进游戏听到声音切回来，就是在出生地等待的时候
 echo  Just enter a number, only a number can be entered to continue!
-echo  在飞机上切回来随便输入一个数字就可以了
+echo  切回来随便输入一个数字就可以了
 pause;
 set N=1
 :start
