@@ -1,13 +1,26 @@
 # PUBG_HACK
 PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10脚本
 ==========================================================================
+
+
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample File out of Date now!!!!!!!
-================================================
+They introduced a checksum in-game in the latest patch.
+So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
+Odd they aren't yet banning for this, must be because they haven't yet sorted out the false positives.
+
+Next useable release time： Unknown （ Working On It！）
+-------------------------------------
+
 
 养成习惯~下载之前先顶赞   BEFOR U DOWNLOAD CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 ===========================================
 Important！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗
 ===========================================
+
+<<<<<<<<<<<【OUT OF DATE】>>>>>>>>>>>>>>>>>>>
+=========================================================
+
+
 
 download this bat file single or download all files include paks
 --------------------------------------------------------------------------
