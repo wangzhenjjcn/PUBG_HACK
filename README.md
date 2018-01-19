@@ -1,6 +1,8 @@
 # PUBG_HACK
 PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10脚本
 ==========================================================================
+If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample File out of Date now!!!!!!!
+================================================
 
 养成习惯~下载之前先顶赞   BEFOR U DOWNLOAD CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 ===========================================
