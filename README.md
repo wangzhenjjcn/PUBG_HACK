@@ -89,5 +89,5 @@ reasonable to arrange a time to enjoy a healthy life
 
 
 
-![落地拳头打死5人要技术的](https://github.com/wangzhenjjcn/PUBG_HACK/blob/master/IMG/RECORD2.jpg)
-![日本前100](https://github.com/wangzhenjjcn/PUBG_HACK/blob/master/IMG/RECORD.jpg)
+![落地拳头打死5人要技术的](https://github.com/wangzhenjjcn/IMAGE/blob/master/RECORD2.jpg)
+![日本前100](https://github.com/wangzhenjjcn/IMAGE/blob/master/RECORD.jpg)
