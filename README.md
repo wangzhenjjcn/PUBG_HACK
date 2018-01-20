@@ -2,6 +2,23 @@
 PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10脚本
 ==========================================================================
 
+NewPakAt180118    
+![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
+wangzhenjjcn released this 2018-01-21
+
+***Assets***    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180118.zip "悬停显示")          
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180118.tar.gz "悬停显示")    
+ 20180118NEWRELEASE
+ #####
+
+
+
+
+
+
+
+
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample New Release At 2018-01-18 now!!!!!!!
 They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
