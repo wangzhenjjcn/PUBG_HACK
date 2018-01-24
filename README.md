@@ -7,8 +7,8 @@ NewPakAt180118
 wangzhenjjcn released this 2018-01-21
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180122.zip "悬停显示")          
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180122.tar.gz "悬停显示")    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180124.zip "悬停显示")          
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180124.tar.gz "悬停显示")    
  20180118NEWRELEASE
  #####
 
