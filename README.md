@@ -42,6 +42,22 @@ Important！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗�
 CAUTION USE AT YOUR OWN RISK 
 =========================================================
 
+IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE FILE AND EDIT BY WINDOWS NOTE)
+=======================
+
+![ERR_IMG1](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRPUBG_ADD.jpg)
+![ERR_IMG2](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRPUBG_ADD2.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 download this bat file single or download all files include paks
 --------------------------------------------------------------------------
