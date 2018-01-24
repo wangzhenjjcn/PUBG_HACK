@@ -43,6 +43,7 @@ CAUTION USE AT YOUR OWN RISK
 =========================================================
 
 IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE FILE AND EDIT BY WINDOWS NOTE)
+出问题请自己拷贝代码黏贴到新的记事本里重命名为.bat文件即可，一般都是编码问题，github上传之后的回车会转义
 =======================
 
 ![ERR_IMG1](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRPUBG_ADD.jpg)

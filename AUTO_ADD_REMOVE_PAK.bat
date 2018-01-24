@@ -1,5 +1,5 @@
 @echo off
-echo 
+echo  if err with encode problem,pls make a file and copy code from github page and save as bat file
 echo  author Wang Zhen  A.Hleb.King wangzhenjjcn@gmail.com 
 echo  since 018-1-7 6:53:44 pm
 echo  
