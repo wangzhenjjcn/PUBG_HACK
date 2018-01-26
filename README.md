@@ -4,18 +4,19 @@ PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10
 
 NewPakAt180118    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
-wangzhenjjcn released this 2018-01-21
+wangzhenjjcn released this 2018-01-27
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180124.zip "悬停显示")          
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180124.tar.gz "悬停显示")    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180127.zip "悬停显示")          
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180127.tar.gz "悬停显示")    
  20180118NEWRELEASE
  #####
-
-
-
-
-
+***
+2018-01-27 pak
+No recoil for guns:
+AKM,AUG,DP28,GROZA,HK416,M14,M16A4,M249,MINI14,SAIGA,SCAR,SKS,THOMPSON,UMP,VECTOR,VSS,W94,WINCHESTER.
+---------------------------------------------------------------------------------------------------------
+ 
 
 
 
@@ -24,7 +25,7 @@ They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
 Odd they aren't yet banning for this, must be because they haven't yet sorted out the false positives.
 
-Next useable release time： New Release At 2018-01-18 （ Working On It Next Gen！）
+Next useable release time： New Release At 2018-01-27 （ Working On It Next Gen！）
 -------------------------------------
 
 
@@ -35,7 +36,7 @@ BEFOR U DOWNLOAD CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 Important！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗
 ===========================================
 
-<<<<<<<<<<<【New Release At 2018-01-18】>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<【New Release At 2018-01-27】>>>>>>>>>>>>>>>>>>>
 =========================================================
 本人不用挂，测试请谨慎，后果自负！
 =========================================================

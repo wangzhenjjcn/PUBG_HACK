@@ -22,7 +22,7 @@ set /a a+=1
 echo  File deployment finished!!!!!
 echo  文件部署完毕
 echo   Open the game if you are in the Ingame Lobby (when you hear the sound), the most people hear the sound first and still have blackscreen, switch back
-echo  黑屏进游戏听到声音切回来，就是在出生地等待的时候
+echo  黑屏进游戏听到声音切回来，就是在出生地等待的时候没声音那就算了有画面切回来
 echo  Just enter a number, only a number can be entered to continue!
 echo  切回来随便输入一个数字就可以了
 pause;
