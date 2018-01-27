@@ -2,14 +2,14 @@
 PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10脚本
 ==========================================================================
 
-NewPakAt180128   
+NewPakAt180129   
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
-wangzhenjjcn released this 2018-01-28
+wangzhenjjcn released this 2018-01-29
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180128.zip "悬停显示")          
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180128.tar.gz "悬停显示")    
- 20180128NEWRELEASE
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180129.zip "悬停显示")          
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180129.tar.gz "悬停显示")    
+ 20180129NEWRELEASE
  #####
 ***
 2018-01-28 pak
