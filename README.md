@@ -17,6 +17,14 @@ No recoil for guns:
 AKM,AUG,DP28,GROZA,HK416,M14,M16A4,M249,MINI14,SAIGA,SCAR,SKS,THOMPSON,UMP,VECTOR,VSS,W94,WINCHESTER.
 ---------------------------------------------------------------------------------------------------------
 
+![1](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RIGHTCLICK.jpg)
+![2](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_EDITBAT.jpg)
+![3](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUNBAT.jpg)
+![4](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUN2.jpg)
+![5](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUN3.jpg)
+
+
+
 
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample New Release At 2018-01-18 now!!!!!!!
 They introduced a checksum in-game in the latest patch.

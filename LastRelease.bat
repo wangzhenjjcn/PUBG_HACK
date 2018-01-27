@@ -37,9 +37,8 @@ echo --copypaks
 cd %PAK_PATH%
 echo =====OOOPS=======PLS====WAIT=====WAIT======WAIT====12GB===DATA===COPY=======ING=================
 for /f "delims=" %%i in ('dir /aa/s/b/on *.pak') do (
-if  not exist  %paks_path%%%~nxi  echo ~~~~~~~Processing!~PLS WAIT~~~~~~~
 if  not exist  %paks_path%%%~nxi  xcopy "%%~fi" "%paks_path%" 
-if    exist  %paks_path%%%~nxi  echo    %%~nxi   DONE
+if    exist  %paks_path%%%~nxi  echo COPY===%%~nxi===DONE
 if  not exist  %paks_path%%%~nxi  goto copypaks
 )
 echo ---paks copy done
@@ -48,9 +47,8 @@ goto copymoddedfiles
 echo --copymoddedfiles
 cd %filepath%
 for /f "delims=" %%i in ('dir /aa/s/b/on *.pak') do (
-if  not exist  %paks_path%%%~nxi  echo ~~~~~~~Processing!~PLS WAIT~~~~~~~
 if  not exist  %paks_path%%%~nxi  xcopy "%%~fi" "%paks_path%" 
-if  exist  %paks_path%%%~nxi  echo    %%~nxi   DONE
+if  exist  %paks_path%%%~nxi  echo COPY===%%~nxi===DONE
 if  not exist  %paks_path%%%~nxi goto copymoddedfiles
 )
 cd C:\
