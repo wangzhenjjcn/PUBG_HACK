@@ -2,22 +2,20 @@
 PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10脚本
 ==========================================================================
 
-NewPakAt180118    
+NewPakAt180128   
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
-wangzhenjjcn released this 2018-01-27
+wangzhenjjcn released this 2018-01-28
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180127.zip "悬停显示")          
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180127.tar.gz "悬停显示")    
- 20180118NEWRELEASE
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180128.zip "悬停显示")          
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180128.tar.gz "悬停显示")    
+ 20180128NEWRELEASE
  #####
 ***
-2018-01-27 pak
+2018-01-28 pak
 No recoil for guns:
 AKM,AUG,DP28,GROZA,HK416,M14,M16A4,M249,MINI14,SAIGA,SCAR,SKS,THOMPSON,UMP,VECTOR,VSS,W94,WINCHESTER.
 ---------------------------------------------------------------------------------------------------------
- 
-
 
 
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample New Release At 2018-01-18 now!!!!!!!
@@ -25,7 +23,7 @@ They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
 Odd they aren't yet banning for this, must be because they haven't yet sorted out the false positives.
 
-Next useable release time： New Release At 2018-01-27 （ Working On It Next Gen！）
+Next useable release time： New Release At 2018-01-28 （ Working On It Next Gen！）
 -------------------------------------
 
 
@@ -36,7 +34,7 @@ BEFOR U DOWNLOAD CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 Important！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗↗
 ===========================================
 
-<<<<<<<<<<<【New Release At 2018-01-27】>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<【New Release At 2018-01-28】>>>>>>>>>>>>>>>>>>>
 =========================================================
 本人不用挂，测试请谨慎，后果自负！
 =========================================================
@@ -68,7 +66,7 @@ download this bat file single or download all files include paks
 ***
 2.creat a folder named PAKS under xxx
        it should be looks like this:  
------|USB DISK Folderxxx  
+-----|any Folderxxx  
 ----------|----------XXXXX.BAT    
 ----------|----------PAKS    
 ---------------------|----------PAKSFolder   
@@ -91,9 +89,9 @@ download this bat file single or download all files include paks
 ***
 7.ENJOY GAME
 ***
-8.CLOSE PUBG PROGRAME
+8.DOT CLOSE PUBG PROGRAME
 ***
-9.REDO 3-8 EVERY GAME~!!!!!!!!!
+9.IF　CLOSE RE RUN THIS BAT~!!!!!!!!!
 ***
 ***
 
@@ -111,9 +109,9 @@ download this bat file single or download all files include paks
 ***
 *6.按一个数字键享受游戏乐趣（不提倡。不反对。健康游戏）
 ***
-*7.关闭游戏程序
+*7.重新加入游戏不要退出游戏，退出了就要再跑一遍
 ***
-*8.重复上面的3-7步骤即可
+*8.重新跑BAT
 ***
 
 
