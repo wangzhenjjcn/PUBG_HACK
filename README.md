@@ -11,6 +11,8 @@ wangzhenjjcn released this 2018-01-29
  [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180129.tar.gz "悬停显示")    
  20180129NEWRELEASE
  #####
+ ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
+ 
 ***
 2018-01-28 pak
 No recoil for guns:
