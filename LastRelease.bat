@@ -1,6 +1,7 @@
 @echo off
 echo ==================================================================================================
 echo  if err with encode problem,pls make a file and copy code from github page and save as bat file
+echo  the first @  maybe err encode 
 echo ==================================================================================================
 echo  author wang zhen  a.hleb.king wangzhenjjcn@gmail.com 
 echo  since 018-1-27 23:23:23 AM (UTC+8)
