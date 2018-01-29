@@ -12,7 +12,7 @@ wangzhenjjcn released this 2018-01-29
  20180129NEWRELEASE
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
- 
+ ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
  
  养成习惯~下载之前先顶赞   
 ===========================================
