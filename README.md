@@ -1,5 +1,5 @@
 # PUBG_HACK `CAUTION USE AT YOUR OWN RISK`
-PUBG_HACK PUBG CHEAT Win10 BAT 绝地求生  作弊 外挂 PAK 代码 BAT  Win10脚本
+PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошенничать 플러그인
 ==========================================================================
 
 NewPakAt180131    
