@@ -20,6 +20,11 @@ CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 ===========================================
 【Important】！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
 ===========================================
+IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER
+==========================================
+
+ ![err](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRS.jpg)
+
 
 <<<<<<【New Release At 2018-01-31】>>>>>>>>
 =========================================================
