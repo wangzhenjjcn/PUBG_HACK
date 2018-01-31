@@ -1,29 +1,29 @@
 # PUBG_HACK `CAUTION USE AT YOUR OWN RISK`
-PUBG_HACK PUBG CHEAT Win10 BAT ¾øµØÇóÉú  ×÷±× Íâ¹Ò PAK ´úÂë BAT  Win10½Å±¾
+PUBG_HACK PUBG CHEAT Win10 BAT ç»åœ°æ±‚ç”Ÿ  ä½œå¼Š å¤–æŒ‚ PAK ä»£ç  BAT  Win10è„šæœ¬
 ==========================================================================
 
 NewPakAt180131    
-![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "ĞüÍ£ÏÔÊ¾")      
+![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "æ‚¬åœæ˜¾ç¤º")      
 wangzhenjjcn released this 2018-01-31    
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180131.zip "ĞüÍ£ÏÔÊ¾")      
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180131.tar.gz "ĞüÍ£ÏÔÊ¾")    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180131.zip "æ‚¬åœæ˜¾ç¤º") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180131.tar.gz "æ‚¬åœæ˜¾ç¤º")    
  20180131NEWRELEASE    
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
  ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
  
-Ñø³ÉÏ°¹ß~ÏÂÔØÖ®Ç°ÏÈ¶¥ÔŞ   
+å…»æˆä¹ æƒ¯~ä¸‹è½½ä¹‹å‰å…ˆé¡¶èµ   
 ===========================================
 CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 ===========================================
-¡¾Important¡¿£¡£¡£¡£¡£¡¡ú¡ü¡ü¡ü¡ü¡ü¡ü¡ü¡ü¡ü¡ü¡ü¡ü¡ü¨J¨J¨J¨J¨J¨J¨J¨J¨J¨J¨J
+ã€Importantã€‘ï¼ï¼ï¼ï¼ï¼â†’â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†—â†—â†—â†—â†—â†—â†—â†—â†—â†—â†—
 ===========================================
 
-<<<<<<¡¾New Release At 2018-01-31¡¿>>>>>>>>
+<<<<<<ã€New Release At 2018-01-31ã€‘>>>>>>>>
 =========================================================
-±¾ÈË²»ÓÃ¹Ò£¬²âÊÔÇë½÷É÷£¬ºó¹û×Ô¸º£¡
+æœ¬äººä¸ç”¨æŒ‚ï¼Œæµ‹è¯•è¯·è°¨æ…ï¼Œåæœè‡ªè´Ÿï¼
 --------------------------------------------------------
 CAUTION USE AT YOUR OWN RISK 
 =========================================================
@@ -43,14 +43,14 @@ They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
 Odd they aren't yet banning for this, must be because they haven't yet sorted out the false positives.
 
-Next useable release time£º New Release At 2018-01-31 £¨ Working On It Next Gen£¡£©
+Next useable release timeï¼š New Release At 2018-01-31 ï¼ˆ Working On It Next Genï¼ï¼‰
 -------------------------------------
 
 
 
 
 IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE FILE AND EDIT BY WINDOWS NOTE)
-³öÎÊÌâÇë×Ô¼º¿½±´´úÂëğ¤Ìùµ½ĞÂµÄ¼ÇÊÂ±¾ÀïÖØÃüÃûÎª.batÎÄ¼ş¼´¿É£¬Ò»°ã¶¼ÊÇ±àÂëÎÊÌâ£¬githubÉÏ´«Ö®ºóµÄ»Ø³µ»á×ªÒå
+å‡ºé—®é¢˜è¯·è‡ªå·±æ‹·è´ä»£ç é»è´´åˆ°æ–°çš„è®°äº‹æœ¬é‡Œé‡å‘½åä¸º.batæ–‡ä»¶å³å¯ï¼Œä¸€èˆ¬éƒ½æ˜¯ç¼–ç é—®é¢˜ï¼Œgithubä¸Šä¼ ä¹‹åçš„å›è½¦ä¼šè½¬ä¹‰
 =======================
 
 ![ERR_IMG1](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRPUBG_ADD.jpg)
@@ -87,7 +87,7 @@ download this bat file single or download all files include paks
 ---------------------|----------X7X.PAK    
 
 ***
-3.RUN BAT FILE AS [ADMINISTRATOR]<------------------Important£¡£¡£¡£¡£¡
+3.RUN BAT FILE AS [ADMINISTRATOR]<------------------Importantï¼ï¼ï¼ï¼ï¼
 ***
 4.  then RUN PUBG GAME AND JOIN A GAME    
 ***
@@ -99,27 +99,27 @@ download this bat file single or download all files include paks
 ***
 8.DOT CLOSE PUBG PROGRAME
 ***
-9.IF¡¡CLOSE RE RUN THIS BAT~!!!!!!!!!
+9.IFã€€CLOSE RE RUN THIS BAT~!!!!!!!!!
 ***
 ***
 
-¿ÉÒÔµ¥¶ÀÏÂÔØ´Ëbat½Å±¾£¬¿ÉÒÔÏÂÔØÕû¸örepo°üº¬µÄÑù±¾PAK
+å¯ä»¥å•ç‹¬ä¸‹è½½æ­¤batè„šæœ¬ï¼Œå¯ä»¥ä¸‹è½½æ•´ä¸ªrepoåŒ…å«çš„æ ·æœ¬PAK
 --------------------------------------------------------------------------
-*1.ÏÂÔØÕâ¸öbat½Å±¾µ½´ÅÅÌ
+*1.ä¸‹è½½è¿™ä¸ªbatè„šæœ¬åˆ°ç£ç›˜
 ***
-*2.ÔÚ½Å±¾ËùÔÚÎÄ¼ş¼Ğ´´½¨Ò»¸ö½ĞPAKSµÄÎÄ¼ş¼Ğ£¬°ÑÄãÏÂÔØµÄPAKS·Å½øÈ¥
+*2.åœ¨è„šæœ¬æ‰€åœ¨æ–‡ä»¶å¤¹åˆ›å»ºä¸€ä¸ªå«PAKSçš„æ–‡ä»¶å¤¹ï¼ŒæŠŠä½ ä¸‹è½½çš„PAKSæ”¾è¿›å»
 ***
-*3.ÓÃ¡¾¹ÜÀíÔ±È¨ÏŞ¡¿´ò¿ªbat½Å±¾
+*3.ç”¨ã€ç®¡ç†å‘˜æƒé™ã€‘æ‰“å¼€batè„šæœ¬
 ***
-*4.´ò¿ªÓÎÏ·¼ÓÈëÒ»¸öÓÎÏ·
+*4.æ‰“å¼€æ¸¸æˆåŠ å…¥ä¸€ä¸ªæ¸¸æˆ
 ***
-*5.ÓÎÏ·ÀïºÚÆÁÌıµ½ÉùÒôµÄÊ±ºòÇĞ»Øµ½bat½Å±¾Àï£¨¼Ç×¡²»Òª¹Ø±Õ£©
+*5.æ¸¸æˆé‡Œé»‘å±å¬åˆ°å£°éŸ³çš„æ—¶å€™åˆ‡å›åˆ°batè„šæœ¬é‡Œï¼ˆè®°ä½ä¸è¦å…³é—­ï¼‰
 ***
-*6.°´Ò»¸öÊı×Ö¼üÏíÊÜÓÎÏ·ÀÖÈ¤£¨²»Ìá³«¡£²»·´¶Ô¡£½¡¿µÓÎÏ·£©
+*6.æŒ‰ä¸€ä¸ªæ•°å­—é”®äº«å—æ¸¸æˆä¹è¶£ï¼ˆä¸æå€¡ã€‚ä¸åå¯¹ã€‚å¥åº·æ¸¸æˆï¼‰
 ***
-*7.ÖØĞÂ¼ÓÈëÓÎÏ·²»ÒªÍË³öÓÎÏ·£¬ÍË³öÁË¾ÍÒªÔÙÅÜÒ»±é
+*7.é‡æ–°åŠ å…¥æ¸¸æˆä¸è¦é€€å‡ºæ¸¸æˆï¼Œé€€å‡ºäº†å°±è¦å†è·‘ä¸€é
 ***
-*8.ÖØĞÂÅÜBAT
+*8.é‡æ–°è·‘BAT
 ***
 
 
@@ -141,11 +141,11 @@ do not addicted to the game
 reasonable to arrange a time to enjoy a healthy life
 ===========================================
 ***
-¾Ü¾øµÁ°æÓÎÏ·£¬×¢Òâ×ÔÎÒ±£»¤£¬½÷·ÀÊÜÆ­ÉÏµ±£¬ÊÊ¶ÈÓÎÏ·ÒæÄÔ£¬³ÁÃÔÓÎÏ·ÉËÉí£¬ºÏÀí°²ÅÅÊ±¼ä£¬ÏíÊÜ½¡¿µÉú»î~!
+æ‹’ç»ç›—ç‰ˆæ¸¸æˆï¼Œæ³¨æ„è‡ªæˆ‘ä¿æŠ¤ï¼Œè°¨é˜²å—éª—ä¸Šå½“ï¼Œé€‚åº¦æ¸¸æˆç›Šè„‘ï¼Œæ²‰è¿·æ¸¸æˆä¼¤èº«ï¼Œåˆç†å®‰æ’æ—¶é—´ï¼Œäº«å—å¥åº·ç”Ÿæ´»~!
 ===========================================
 ***
 
 
 
-![ÂäµØÈ­Í·´òËÀ5ÈËÒª¼¼ÊõµÄ](https://github.com/wangzhenjjcn/IMAGE/blob/master/RECORD2.jpg)
-![ÈÕ±¾Ç°100](https://github.com/wangzhenjjcn/IMAGE/blob/master/RECORD.jpg)
+![è½åœ°æ‹³å¤´æ‰“æ­»5äººè¦æŠ€æœ¯çš„](https://github.com/wangzhenjjcn/IMAGE/blob/master/RECORD2.jpg)
+![æ—¥æœ¬å‰100](https://github.com/wangzhenjjcn/IMAGE/blob/master/RECORD.jpg)
