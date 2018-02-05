@@ -4,11 +4,11 @@ PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошен
 
 NewPakAt180131    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
-wangzhenjjcn released this 2018-01-31    
+wangzhenjjcn released this 2018-02-06    
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180131.zip "悬停显示") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180131.tar.gz "悬停显示")    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180206.zip "悬停显示") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180206.tar.gz "悬停显示")    
  20180131NEWRELEASE    
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
@@ -26,7 +26,7 @@ IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER
  ![err](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRS.jpg)
 
 
-<<<<<<【New Release At 2018-01-31】>>>>>>>>
+<<<<<<【New Release At 2018-02-06】>>>>>>>>
 =========================================================
 本人不用挂，测试请谨慎，后果自负！
 --------------------------------------------------------
