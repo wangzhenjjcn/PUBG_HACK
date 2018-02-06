@@ -1,8 +1,9 @@
 # PUBG_HACK `CAUTION USE AT YOUR OWN RISK`
 PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошенничать 플러그인
 ==========================================================================
-
-NewPakAt180131    
+Only For Fun and Learn,Delete This Befor 24Hours From U download it!
+==========================================================================
+NewPakAt180206    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
 wangzhenjjcn released this 2018-02-06    
 
@@ -19,18 +20,14 @@ wangzhenjjcn released this 2018-02-06
 CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 ===========================================
 【Important】！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
-===========================================
-IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER
-==========================================
-
- ![err](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRS.jpg)
-
-
-<<<<<<【New Release At 2018-02-06】>>>>>>>>
+===========================================    
+IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER    
+==========================================    
+<<<<<<【New Release At 2018-02-06】>>>>>>>>    
 =========================================================
-本人不用挂，测试请谨慎，后果自负！
+本人不用挂，测试请谨慎，后果自负！    
 --------------------------------------------------------
-CAUTION USE AT YOUR OWN RISK 
+CAUTION USE AT YOUR OWN RISK     
 =========================================================
 ***
 
@@ -40,19 +37,13 @@ CAUTION USE AT YOUR OWN RISK
 ![4](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUN2.jpg)
 ![5](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUN3.jpg)
 
-
-
-
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample New Release At 2018-01-18 now!!!!!!!
 They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
 Odd they aren't yet banning for this, must be because they haven't yet sorted out the false positives.
 
-Next useable release time： New Release At 2018-01-31 （ Working On It Next Gen！）
+Next useable release time： New Release At 2018-02-06（ Working On It Next Gen！）
 -------------------------------------
-
-
-
 
 IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE FILE AND EDIT BY WINDOWS NOTE)
 出问题请自己拷贝代码黏贴到新的记事本里重命名为.bat文件即可，一般都是编码问题，github上传之后的回车会转义
@@ -70,63 +61,7 @@ IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE 
 
 
 
-
-
-download this bat file single or download all files include paks
---------------------------------------------------------------------------
-***
-1.download Bat File to folder xxxx  in  your device!!!!!!!!!!!!
-***
-2.creat a folder named PAKS under xxx
-       it should be looks like this:  
------|any Folderxxx  
-----------|----------XXXXX.BAT    
-----------|----------PAKS    
----------------------|----------PAKSFolder   
---------------------------------|--XX1X.PAK    
---------------------------------|--XXX2XXX.PAK    
---------------------------------|--X3X.PAK    
---------------------------------|--XX4XXX.PAK    
----------------------|----------X5XX.PAK    
----------------------|----------XX6XXXX.PAK    
----------------------|----------X7X.PAK    
-
-***
-3.RUN BAT FILE AS [ADMINISTRATOR]<------------------Important！！！！！
-***
-4.  then RUN PUBG GAME AND JOIN A GAME    
-***
-5. if you are in the Ingame Lobby (when you hear the sound), the most people hear the sound first and still have blackscreen, switch back and do [6] there.
-***
-6.PRESS A NUMBER BUTTEN LIKE  '1'  OR ELSE~
-***
-7.ENJOY GAME
-***
-8.DOT CLOSE PUBG PROGRAME
-***
-9.IF　CLOSE RE RUN THIS BAT~!!!!!!!!!
-***
-***
-
-可以单独下载此bat脚本，可以下载整个repo包含的样本PAK
---------------------------------------------------------------------------
-*1.下载这个bat脚本到磁盘
-***
-*2.在脚本所在文件夹创建一个叫PAKS的文件夹，把你下载的PAKS放进去
-***
-*3.用【管理员权限】打开bat脚本
-***
-*4.打开游戏加入一个游戏
-***
-*5.游戏里黑屏听到声音的时候切回到bat脚本里（记住不要关闭）
-***
-*6.按一个数字键享受游戏乐趣（不提倡。不反对。健康游戏）
-***
-*7.重新加入游戏不要退出游戏，退出了就要再跑一遍
-***
-*8.重新跑BAT
-***
-
+ 
 
 Refuse pirated games
 ===========================================
