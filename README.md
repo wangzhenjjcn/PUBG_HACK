@@ -3,13 +3,13 @@ PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошен
 ==========================================================================
 Only For Fun and Learn,Delete This Befor 24Hours From U download it!
 ==========================================================================
-NewPakAt180206    
+NewPakAt180207    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
-wangzhenjjcn released this 2018-02-06    
+wangzhenjjcn released this 2018-02-07    
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180206.zip "悬停显示") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180206.tar.gz "悬停显示")    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180207.zip "悬停显示") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180207.tar.gz "悬停显示")    
  20180131NEWRELEASE    
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
@@ -23,7 +23,7 @@ CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
 ===========================================    
 IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER    
 ==========================================    
-<<<<<<【New Release At 2018-02-06】>>>>>>>>    
+<<<<<<【New Release At 2018-02-07】>>>>>>>>    
 =========================================================
 本人不用挂，测试请谨慎，后果自负！    
 --------------------------------------------------------
@@ -42,7 +42,7 @@ They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
 Odd they aren't yet banning for this, must be because they haven't yet sorted out the false positives.
 
-Next useable release time： New Release At 2018-02-06（ Working On It Next Gen！）
+Next useable release time： New Release At 2018-02-07（ Working On It Next Gen！）
 -------------------------------------
 
 IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE FILE AND EDIT BY WINDOWS NOTE)
