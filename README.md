@@ -30,13 +30,17 @@ IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER
 CAUTION USE AT YOUR OWN RISK     
 =========================================================
 ***
-
-![1](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RIGHTCLICK.jpg)
-![2](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_EDITBAT.jpg)
-![3](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUNBAT.jpg)
-![4](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUN2.jpg)
-![5](https://github.com/wangzhenjjcn/IMAGE/blob/master/PUBG_HACK_RUN3.jpg)
-
+ JUST RUN IT THEN OPEN GAME!!!!!!
+=========================================================
+HAPPY
+=========================================================
+NEW
+=========================================================
+YEAR
+=========================================================
+!!!!!!!!!!!
+=========================================================
+    
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample New Release At 2018-01-18 now!!!!!!!
 They introduced a checksum in-game in the latest patch.
 So, obviously, as you modify the paks, you will get a different checksum. And boom, error 25.
