@@ -26,9 +26,10 @@ set modpak_path=%pubg_path%Content\Paks\TslGame-WindowsNoEditor_ui.pak\
 set modpaks_path=%pubg_path%Content\Paks\TslGame-WindowsNoEditor_ui.pak\TslGame-WindowsNoEditor_ui1.pak\
 echo ==================================================================================================
 set filepath=%~dp0
+set PUBG_INSIDE_PATH=%~dp0\TslGame\
 :start
 if not exist %pubg_path% echo Alert!!!!PUBG NOT FOUNDED!!!!!!!!!!!!!!
-if not exist %pubg_path% echo goto start
+if not exist %pubg_path% echo goto checkpubgpath
 echo start					CopyPaks
 rd "%filepath%TslGame-WindowsNoEditor_ui.pak" /S  /Q  
 if not exist %modpaks_path%  echo Y|move "%pak_path%TslGame-WindowsNoEditor_ui.pak"   "%filepath%"
@@ -36,6 +37,15 @@ if not exist %modpak_path% goto creatpaksfolder
 if not exist %modpaks_path% goto creatpaksfolder
 if exist %modpaks_path% goto copypaks
 echo start					--Done 
+:checkpubgpath
+if   exist %pubg_path% goto start
+if not exist %pubg_path% echo Alert!!!!PUBG NOT FOUNDED!!!!!!!!!!!!!!
+set pubg_path=%~dp0\TslGame\
+set pak_path=%~dp0\TslGame\Content\Paks\
+set modpak_path=%~dp0\TslGame\Content\Paks\TslGame-WindowsNoEditor_ui.pak\
+set modpaks_path=%~dp0\TslGame\Content\Paks\TslGame-WindowsNoEditor_ui.pak\TslGame-WindowsNoEditor_ui1.pak\
+set filepath=%~dp0
+goto start
 :creatpaksfolder
 echo creatpaksfolder		MakingFiles
 cd "%pak_path%"

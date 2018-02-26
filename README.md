@@ -3,6 +3,14 @@ PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошен
 ==========================================================================
 Only For Fun and Learn,Delete This Befor 24Hours From U download it!
 ==========================================================================
+use at your own risk , I do not know how long it will work, and whether it will be given for him ban's
+==========================================================================
+养成习惯~下载之前先顶赞   
+===========================================
+CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
+===========================================
+【Important】→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
+===========================================  
 NewPakAt180223    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "悬停显示")      
 wangzhenjjcn released this 2018-02-23    
@@ -15,15 +23,8 @@ wangzhenjjcn released this 2018-02-23
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
  ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
  
-养成习惯~下载之前先顶赞   
-===========================================
-CLICK STAR BUTTON FOR UPDATE PAKS!!!!!
-===========================================
-【Important】！！！！！→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
-===========================================    
+  
 IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER    
-==========================================    
-<<<<<<【New Release At 2018-02-23】>>>>>>>>    
 =========================================================
 本人不用挂，测试请谨慎，后果自负！    
 --------------------------------------------------------
