@@ -27,6 +27,8 @@ set modpaks_path=%pubg_path%Content\Paks\TslGame-WindowsNoEditor_ui.pak\TslGame-
 echo ==================================================================================================
 set filepath=%~dp0
 :start
+if not exist %pubg_path% echo Alert!!!!PUBG NOT FOUNDED!!!!!!!!!!!!!!
+if not exist %pubg_path% echo goto start
 echo start					CopyPaks
 rd "%filepath%TslGame-WindowsNoEditor_ui.pak" /S  /Q  
 if not exist %modpaks_path%  echo Y|move "%pak_path%TslGame-WindowsNoEditor_ui.pak"   "%filepath%"
