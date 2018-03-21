@@ -11,15 +11,15 @@ Maybe Detected After 10-15 Mins Pls Exit Game Uninstall And ReJoin For Safe Just
 ===========================================
 【Important】→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
 ===========================================  
-NewPakAt180311    
+NewPakAt180322    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub") [FaceBook](https://www.facebook.com/wangzhenjjcn "点击查看我的Facebook")      
-wangzhenjjcn released this 2018-03-11    
+wangzhenjjcn released this 2018-03-22    
 
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180311.zip "点击下载") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180311.tar.gz "点击下载")    
- 20180311NEWRELEASE    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180322.zip "点击下载") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180322.tar.gz "点击下载")    
+ 20180322NEWRELEASE    
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
  ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
@@ -57,14 +57,6 @@ IF   IT  RUN  LIKE   THIS  PLS  CHANGE  FILE ENCODE TO ANSI(NOTEPAD++ OR REMAKE 
 
 ![ERR_IMG1](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRPUBG_ADD.jpg)
 ![ERR_IMG2](https://github.com/wangzhenjjcn/IMAGE/blob/master/ERRPUBG_ADD2.jpg)
-
-
-
-
-
-
-
-
 
 
  
