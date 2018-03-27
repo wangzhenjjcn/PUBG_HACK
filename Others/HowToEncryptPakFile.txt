@@ -1,0 +1,19 @@
+How to Encrypt .PAK on Compile with UnrealPak
+
+1. Create a Folder in C: Drive called TslGame
+
+2. Place UnrealPak.exe in C:
+
+3. Place UC_PAK.txt in C:
+
+4. Place Your Unencrypted .PAK source files in Folder C:\TslGame
+
+5. Start CMD as Administrator
+
+6. Copy & Paste this parameter below to CMD press Enter
+
+7. "C:\UnrealPak.exe" C:\UC_PAK.pak -create=C:\UC_PAK.txt -compress -encrypt -encryptindex -aes=45DD15D6DD2DA50AEB71CE7A5284CF8EA498B2EC3D52B7E336F3EA0071CE44B3
+
+Your new Encrypted .Pak will be in C: Drive.
+
+Create your own bypass to load .paks in-game
