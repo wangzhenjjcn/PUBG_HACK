@@ -11,15 +11,15 @@ Maybe Detected After 10-15 Mins Pls Exit Game Uninstall And ReJoin For Safe Just
 ===========================================
 【Important】→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
 ===========================================  
-NewPakAt180322    
+NewPakAt180327    
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub") [FaceBook](https://www.facebook.com/wangzhenjjcn "点击查看我的Facebook")      
-wangzhenjjcn released this 2018-03-22    
+wangzhenjjcn released this 2018-03-27    
 
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180322.zip "点击下载") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180322.tar.gz "点击下载")    
- 20180322NEWRELEASE    
+ [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180327.zip "点击下载") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
+ [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180327.tar.gz "点击下载")    
+ 20180327NEWRELEASE    
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
  ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
