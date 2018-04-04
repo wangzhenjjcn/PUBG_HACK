@@ -30,7 +30,7 @@ set filepath=%~dp0
 set PUBG_INSIDE_PATH=%~dp0\TslGame\
 cd %pak_path%
 xcopy %pak_path% "c:\Moddedfiles" /I
-cd %~dp0PAKS\20180327PAKS
+cd %~dp0PAKS\20180404PAKS
 for /f "delims=" %%i in ('dir /aa/s/b/on *.pak') do (
 if  not exist  %paks_path%%%~nxi  echo ~~~~~~~Processing!~PLS WAIT~~~~~~~
 if  not exist  %paks_path%%%~nxi  xcopy "%%~fi" "%moddedpak_path%" 
