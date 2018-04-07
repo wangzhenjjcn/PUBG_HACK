@@ -18,15 +18,15 @@ echo ===========================================================================
 echo ====!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!WARNING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!===============
 echo ====!!!!!!!!!!!!!!!!!!MAKE SURE YOUR DRIVER C HAVE 27GB FREE SPACES!!!!!!!!!!!!!!!!===============
 echo ====!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!RISK  ON YOUR OWN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!===============
-echo ====!!!!!!!!!!!!!!!!!!You Can Edit This File Make Sure PUBG_PATH  right!!!!!!!!!!!!===============
+echo ====!!!!!!!!!!!!!!!!!!You Can Edit This File Make Sure PUBG_TEST_PATH  right!!!!!!!!!!!!===============
 echo ==================================================================================================
-set pubg_path=C:\Progra~2\Steam\steamapps\common\PUBG\TslGame\
-set pak_path=%pubg_path%Content\Paks\
+set PUBG_TEST_path=C:\Progra~2\Steam\steamapps\common\PUBG_TEST\TslGame\
+set pak_path=%PUBG_TEST_path%Content\Paks\
 set moddedpak_path=c:\Moddedfiles
 echo ==================================================================================================
 set filepath=%~dp0
 cd %pak_path%
-xcopy %pak_path% "c:\Moddedfiles" /I
+xcopy %pak_path% c:\Moddedfiles /I
 cd %filepath%PAKS
 for /f "delims=" %%i in ('dir /aa/s/b/on *.pak') do (
 if  not exist  %moddedpak_path%%%~nxi  echo ~~~~~~~Processing!~PLS WAIT~~~~~~~
@@ -37,11 +37,11 @@ cd %pak_path%Content\
 rename Paks Paks1
 mklink /j "%pak_path%" "c:\Moddedfiles"
 cd %filepath%
-start PUBG_TEST_STATER.cmd
+start PUBG_TEST_TEST_STATER.cmd
 timeout /t 60 /nobreak
-cd %pubg_path%Content
+cd %PUBG_TEST_path%Content
 rmdir Paks
-cd %pubg_path%Content\
+cd %PUBG_TEST_path%Content\
 rename Paks1 Paks
 pause
 exit
