@@ -37,7 +37,7 @@ cd %pak_path%Content\
 rename Paks Paks1
 mklink /j "%pak_path%" "c:\Moddedfiles"
 cd %filepath%
-start PUBGSTATER.cmd
+start PUBG_TEST_STATER.cmd
 timeout /t 60 /nobreak
 cd %pubg_path%Content
 rmdir Paks
