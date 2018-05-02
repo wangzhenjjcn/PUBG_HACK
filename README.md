@@ -1,6 +1,8 @@
 # PUBG_HACK `CAUTION USE AT YOUR OWN RISK`
 PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошенничать 플러그인
 ==========================================================================
+STOP UPDATE FROM 2018/05/01  PAK BLOCKED  BAN WARNNING~！！！
+==========================================================================
 Only For Fun and Learn,Delete This Befor 24Hours From U download it! JUST USE AT TEST~~~！！
 -------------------------------------------------------------------------
 use at your own risk , I do not know how long it will work, and whether it will be given for him ban's
