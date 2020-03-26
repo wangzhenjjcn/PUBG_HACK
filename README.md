@@ -1,14 +1,12 @@
 STOP UPDATE FROM 2018/05/01  
 ==========================================================================
-
-PAK BLOCKED  BAN WARNNING~！！！
+THANK YOU EVERYBODY THAT SUPPORTS ME  
+==========================================================================
+PAK HACK BLOCKED  BANNED ON LIST
 ==========================================================================
 
-
-
 # PUBG_HACK `CAUTION USE AT YOUR OWN RISK`
-PUBG CHEAT 绝地求生 吃鸡 作弊 外挂 チート Plug-in ADD-ON мошенничать 플러그인
- 
+PUBG CHEAT 绝地求生 吃鸡 外挂 チート Plug-in ADD-ON мошенничать 플러그인
 
 Only For Fun and Learn,Delete This Befor 24Hours From U download it! JUST USE AT TEST~~~！！
 -------------------------------------------------------------------------
@@ -36,7 +34,7 @@ wangzhenjjcn released this 2018-04-04
   
 IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER    
 =========================================================
-本人不用挂，测试请谨慎，后果自负！    
+所有脚本正式服未测试，测试请谨慎，后果自负！    
 --------------------------------------------------------
 CAUTION USE AT YOUR OWN RISK     
 =========================================================
