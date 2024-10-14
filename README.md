@@ -1,4 +1,4 @@
-STOP UPDATE FROM 2018/05/01  
+STOP UPDATE SINCE 2018/05/01  
 ==========================================================================
 THANK YOU EVERYBODY THAT SUPPORTS ME  
 ==========================================================================
@@ -24,9 +24,7 @@ wangzhenjjcn released this 2018-04-04
 
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180404.zip "点击下载") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180404.tar.gz "点击下载")    
- 20180404NEWRELEASE    
+
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
  ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
@@ -39,15 +37,9 @@ IF ERR  TRY PUT FOLDER IN UR PUBG FOLDER
 CAUTION USE AT YOUR OWN RISK     
 =========================================================
 ***
- JUST RUN IT THEN OPEN GAME!!!!!!
+
 =========================================================
-HAPPY
-=========================================================
-NEW
-=========================================================
-YEAR
-=========================================================
-!!!!!!!!!!!
+
 =========================================================
     
 If you don't have the right PAK Files or right hack mechanism it won't work anymore,Sample New Release At 2018-01-18 now!!!!!!!
