@@ -1,4 +1,4 @@
-STOP UPDATE FROM 2018/05/01  
+STOP UPDATE Since 2018/05/01  !
 ==========================================================================
 THANK YOU EVERYBODY THAT SUPPORTS ME  
 ==========================================================================
@@ -19,14 +19,13 @@ Maybe Detected After 10-15 Mins Pls Exit Game Uninstall And ReJoin For Safe Just
 【Important】→↑↑↑↑↑↑↑↑↑↑↑↑↑↗↗↗↗↗↗↗↗↗↗↗
 ===========================================  
 NewPakAt180404    
-![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub") [FaceBook](https://www.facebook.com/wangzhenjjcn "点击查看我的Facebook")      
+![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub")       
 wangzhenjjcn released this 2018-04-04    
 
 
 ***Assets***    
- [Source code (zip)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180404.zip "点击下载") <<<<<<DOWNLOAD THIS UZIP RUN BAT         
- [Source code (tar.gz)](https://github.com/wangzhenjjcn/PUBG_HACK/archive/180404.tar.gz "点击下载")    
- 20180404NEWRELEASE    
+  
+  
  #####
  ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
  ![BAM](https://github.com/wangzhenjjcn/IMAGE/blob/master/BlueEyeAndMe.jpg)
